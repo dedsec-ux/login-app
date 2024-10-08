@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037711456357",
+    "project_id": "login-ac914",
+    "storage_bucket": "login-ac914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037711456357:android:f2999cd3192e7afc232e8c",
+        "android_client_info": {
+          "package_name": "com.example.logindem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysUtMjCTj-rHpDJY9-gJHDXl69k7x8Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
